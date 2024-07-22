@@ -1,0 +1,19 @@
+Serial:
+
+Compile: g++ countsort_Serial.cpp -o count
+Run: ./count
+
+Pthread:
+
+Compile: g++ -pthread countsort_pthread.cpp
+Run: ./a.out
+
+OpenMP:
+
+Compile: g++ -o ex1 countsort_OMP.cpp -fopenmp
+Run: ./ex1
+
+
+
+
+
