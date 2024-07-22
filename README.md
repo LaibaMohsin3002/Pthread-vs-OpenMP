@@ -1,0 +1,2 @@
+# Pthread vs OpenMP
+ 
